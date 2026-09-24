@@ -12,7 +12,7 @@ A simple Arduino-based password system using 3 buttons, LEDs, a buzzer, and an O
 
 ## Components
 
-* Arduino
+* Arduino Uno
 * 3 Push Buttons
 * 3 LEDs
 * Buzzer
